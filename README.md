@@ -8,6 +8,10 @@ Instalar MIMIC IV con PostgreSQL en Docker
 | Emmanuel Gutiérrez Jiménez | Universidad del Norte                |
 | José Duván Márquez Díaz    | Universidad del Norte                |
 
+### Créditos
+
+Este tutorial es adaptado del entregado por: https://mimic.physionet.org/tutorials/
+
 ### Resumen
 
 ### Estado del trabajo 
@@ -20,5 +24,6 @@ Instalar MIMIC IV con PostgreSQL en Docker
 
 - `MIMIC-IV`
 - `PostgreSQL`
-- `Dataset Medical`
+- `Dataset Patients`
+- `Predictive Models`
   
