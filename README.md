@@ -1,4 +1,4 @@
-Instalar MIMIC IV con PostgreSQL en Docker
+Guía para instalar MIMIC IV con PostgreSQL en Docker
 =================
 
 ### Autores
