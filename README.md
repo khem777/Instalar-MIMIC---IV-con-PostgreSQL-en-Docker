@@ -61,11 +61,11 @@ Si ya tienes permisos para descargar los archivos CSV de la base de datos de MIM
 - Descarga Docker desde el sitio oficial en: https://docs.docker.com/desktop/setup/install/windows-install.
 - Ejecuta el instalador en modo Administrador del equipo
 
-<img src="docker_instalador.png">
+
 
 - Al finalizar el instalador darle click en el botón con la etiqueta: "Close and Restart"
   
-<img src="docker_fin.png"> 
+
 
 
 ### Paso 3. Instalar contenedores de Postgres y Jupyter
