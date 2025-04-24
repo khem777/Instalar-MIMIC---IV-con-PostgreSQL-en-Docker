@@ -10,9 +10,11 @@ Instalar MIMIC IV con PostgreSQL en Docker
 
 ### Créditos
 
-Este tutorial es adaptado del entregado por: https://mimic.physionet.org/tutorials/
+Este tutorial es adaptado del entregado por los creadores de MIMIC-IV en: https://mimic.physionet.org/tutorials/
 
 ### Resumen
+
+Este repositorio proporciona una guía práctica y reproducible para la instalación del conjunto de datos clínicos MIMIC-IV en una base de datos PostgreSQL utilizando Docker. Está diseñado para facilitar el despliegue local del entorno de análisis, especialmente para investigadores, científicos de datos y profesionales de la salud interesados en explorar información crítica de pacientes hospitalizados. La guía incluye la configuración del contenedor de base de datos, la carga automatizada de los archivos CSV de MIMIC-IV y recomendaciones para el acceso eficiente a los datos desde herramientas analíticas como Python, R o Jupyter. El objetivo principal es acelerar la preparación del entorno de trabajo para investigaciones en salud, machine learning y análisis clínico reproducible.
 
 ### Estado del trabajo 
 
@@ -26,4 +28,7 @@ Este tutorial es adaptado del entregado por: https://mimic.physionet.org/tutoria
 - `PostgreSQL`
 - `Dataset Patients`
 - `Predictive Models`
-  
+
+### Paso 1. Instalar docker (Windows o Linux)
+
+
