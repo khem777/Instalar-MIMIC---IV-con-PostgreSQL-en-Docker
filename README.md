@@ -7,6 +7,7 @@ Guía para instalar MIMIC IV en PostgreSQL utilizando contenedores de Docker en 
 | -------------------------- | ------------------------------------ |
 | Emmanuel Gutiérrez Jiménez | Universidad del Norte                |
 | José Duván Márquez Díaz    | Universidad del Norte                |
+| Ana Lucila Sandoval        | Universidad Complutense de Madrid    |
 
 ### Créditos
 
