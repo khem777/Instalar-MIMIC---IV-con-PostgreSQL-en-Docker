@@ -58,7 +58,7 @@ Este repositorio proporciona una guía práctica y reproducible para la instalac
 #### Paso 4.2. Importar tablas de ICU
 #### Paso 4.2. Importar tablas de HOSP
 
-### Paso 5. Crear indices en las tablas de la base de datos para mejorar el desempeño de las consultas a la base de datos
+### Paso 5. Crear indices en las tablas de la base de datos para mejorar el desempeño de las consultas sql
 
 ### Paso 6. Verificar el contenido de las filas en cada una de las tablas
 
