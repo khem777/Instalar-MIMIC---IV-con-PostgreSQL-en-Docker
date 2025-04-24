@@ -26,8 +26,10 @@ Este repositorio proporciona una guía práctica y reproducible para la instalac
 
 - `MIMIC-IV`
 - `PostgreSQL`
+- `Docker`
 - `Dataset Patients`
 - `Predictive Models`
+- `CSV`
 
 ### Paso 1. Instalar docker (Windows o Linux)
 
