@@ -19,7 +19,7 @@ Este repositorio proporciona una guía práctica y reproducible para la instalac
 
 
 <p align="center"> 
-  
+  <img src="mimic-iv.png">
   <br>
   Fuente: (Johnson, y otros, 2023)
 </p>
