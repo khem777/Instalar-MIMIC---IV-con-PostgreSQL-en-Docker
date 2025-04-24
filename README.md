@@ -36,7 +36,7 @@ Este repositorio proporciona una guía práctica y reproducible para la instalac
 
 - Equipo con instalación de Windows 11 Profesional Edition o Windows Server 2019 en adelante.
 - Tener conocimientos de instalación de servidores en contenedores de Docker.
-- Tener conocimientos en ejecución de scripts en bases de datos postgres.
+- Tener conocimientos en ejecución de scripts en bases de datos PostgreSQL.
   
 ### Paso 1. Descargar los archivos CSV desde el sitio oficial de MIMIC-IV
 
