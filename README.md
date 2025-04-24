@@ -42,9 +42,12 @@ Este repositorio proporciona una guía práctica y reproducible para la instalac
 
 Para poder descargar los archivos CSV de la base de datos de MIMIC-IV, primero debes solicitar permiso para usar MIMIC-IV en: https://mimic.physionet.org/gettingstarted/access/.
 
-Si ya tienes permisos para descargar los archivos CSV de la base de datos de MIMIC-IV, entocnes ves a la página oficial de MIMIC-IV: https://physionet.org/content/mimiciv/3.1/ y descarga el .zip que contiene todos los CSV con la data de la base de datos.
+Si ya tienes permisos para descargar los archivos CSV de la base de datos de MIMIC-IV, entocnes ves a la página oficial de MIMIC-IV: https://physionet.org/content/mimiciv/3.1/ y descarga el .zip que contiene todos los CSV de cada una de las tablas de la base de datos.
 
 ### Paso 2. Instalar docker en Windows
+
+Descarga Docker desde el sitio oficial en: https://docs.docker.com/desktop/setup/install/windows-install![image](https://github.com/user-attachments/assets/619ea7f1-3eb6-4d2c-9ac3-5c16cd295c9e)
+
 
 ### Paso 3. Instalar contenedores de Postgres y Jupyter
 
