@@ -67,7 +67,7 @@ Si ya tienes permisos para descargar los archivos CSV de la base de datos de MIM
   
 <img src="docker_fin.png">
 
-### Paso 3. Instalar contenedores de Postgres y Jupyter
+### Paso 3. Instalar contenedores de Postgres y Jupyter desde Visual Studio Code
 
 #### Paso 3.1. Crear workspace en Visual Studio Code
 #### Paso 3.2. Crear Docker-Composer.yml
