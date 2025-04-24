@@ -21,6 +21,8 @@ Este repositorio proporciona una guía práctica y reproducible para la instalac
 <p align="center"> 
   <img src="mimic-iv.png">
   <br>
+  Descripción general del proceso de desarrollo de MIMIC IV.
+  <br>
   Fuente: (Johnson, y otros, 2023)
 </p>
 
@@ -56,7 +58,10 @@ Si ya tienes permisos para descargar los archivos CSV de la base de datos de MIM
 
 <img src="docker.png">
 
-Descarga Docker desde el sitio oficial en: https://docs.docker.com/desktop/setup/install/windows-install.
+- Descarga Docker desde el sitio oficial en: https://docs.docker.com/desktop/setup/install/windows-install.
+- Ejecuta el instalador en modo Administrador del equipo
+- Al finalizar el instalador darle click en el botón con la etiqueta: "Close and Restart"
+  
 
 
 
