@@ -46,7 +46,7 @@ Si ya tienes permisos para descargar los archivos CSV de la base de datos de MIM
 
 ### Paso 2. Instalar docker en Windows
 
-
+<img src="docker.png">
 
 Descarga Docker desde el sitio oficial en: https://docs.docker.com/desktop/setup/install/windows-install.
 
