@@ -1,4 +1,4 @@
-Guía para instalar MIMIC IV en PostgreSQL utilizando contenedores de Docker
+Guía para instalar MIMIC IV en PostgreSQL utilizando contenedores de Docker en Windows
 =================
 
 ### Autores
@@ -31,6 +31,44 @@ Este repositorio proporciona una guía práctica y reproducible para la instalac
 - `Predictive Models`
 - `CSV`
 
-### Paso 1. Instalar docker (Windows o Linux)
+### Paso 1. Descargar los archivos csv desde el sitio oficial de MIMIC-IV
+
+### Paso 1. Instalar docker en Windows
+
+### Paso 2. Instalar contenedores de Postgres y Jupyter
+
+#### Paso 2.1. Crear workspace en Visual Studio Code
+#### Paso 2.2. Crear Docker-Composer.yml
+#### Paso 2.3. Ejecutar creación de contenedores desde Visual Studio Code
+
+#### Paso 3.1. Conectarse a la base de datos con usuario Postgres
+#### Paso 3.2. Crear base de datos: mimiciv
+#### Paso 3.3. Crear schema: mimiciv
+
+### Paso 3. Configuración de la base de datos
+
+#### Paso 3.1. Conectarse a Postgres
+#### Paso 3.2. Crear base de datos: mimiciv
+#### Paso 3.3. Crear schema: mimiciv
+#### Paso 3.4. Crear tablas dentro del schema: mimiciv
+
+### Paso 4. Importar CSV en tablas de la base de datos
+
+#### Paso 4.1. Importar tablas de CORE
+#### Paso 4.2. Importar tablas de ICU
+#### Paso 4.2. Importar tablas de HOSP
+
+### Paso 5. Crear indices en las tablas de la base de datos para mejorar el desempeño de las consultas a la base de datos
+
+### Paso 6. Verificar el contenido de las filas en cada una de las tablas
+
+
+
+
+
+
+
+
+
 
 
