@@ -65,7 +65,7 @@ Si ya tienes permisos para descargar los archivos CSV de la base de datos de MIM
 
 - Al finalizar el instalador darle click en el botón con la etiqueta: "Close and Restart"
   
-<img src="docker_fin.png">
+<img src="docker_fin.png"> 
 
 
 ### Paso 3. Instalar contenedores de Postgres y Jupyter
